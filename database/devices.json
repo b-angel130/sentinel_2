@@ -1,0 +1,3106 @@
+{
+    "ec:08:6b:bc:0f:b4": {
+        "ip": "192.168.1.1",
+        "mac": "ec:08:6b:bc:0f:b4",
+        "hostname": "Unknown",
+        "vendor": "TP-Link",
+        "alias": "",
+        "notes": "",
+        "trusted": false,
+        "online": true,
+        "first_seen": "2026-06-30T19:58:03.419274",
+        "last_seen": "2026-07-01T17:52:53.660099",
+        "packet_count": 9029,
+        "bytes_sent": 5229097,
+        "bytes_received": 526384,
+        "protocols": {
+            "UDP": 498,
+            "OTHER": 57,
+            "TCP": 8474
+        },
+        "packet_history": [
+            {
+                "time": "2026-07-01T17:51:58.049731",
+                "protocol": "UDP",
+                "size": 86,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:58.359154",
+                "protocol": "UDP",
+                "size": 79,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:51:58.361155",
+                "protocol": "UDP",
+                "size": 79,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:51:58.491103",
+                "protocol": "UDP",
+                "size": 163,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:58.493121",
+                "protocol": "UDP",
+                "size": 129,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:58.836163",
+                "protocol": "UDP",
+                "size": 90,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:51:58.896203",
+                "protocol": "UDP",
+                "size": 90,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:51:59.058907",
+                "protocol": "UDP",
+                "size": 211,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:59.117018",
+                "protocol": "UDP",
+                "size": 211,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:59.150832",
+                "protocol": "UDP",
+                "size": 95,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:51:59.151831",
+                "protocol": "UDP",
+                "size": 95,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:51:59.351811",
+                "protocol": "UDP",
+                "size": 155,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:59.357810",
+                "protocol": "UDP",
+                "size": 159,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:02.809480",
+                "protocol": "UDP",
+                "size": 85,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:02.810478",
+                "protocol": "UDP",
+                "size": 85,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:02.882680",
+                "protocol": "UDP",
+                "size": 77,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:02.883679",
+                "protocol": "UDP",
+                "size": 77,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:03.047275",
+                "protocol": "UDP",
+                "size": 102,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:03.048256",
+                "protocol": "UDP",
+                "size": 93,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:03.430216",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:03.436209",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:03.633398",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:03.636395",
+                "protocol": "UDP",
+                "size": 91,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:03.820175",
+                "protocol": "UDP",
+                "size": 85,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:03.821201",
+                "protocol": "UDP",
+                "size": 85,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:03.935633",
+                "protocol": "UDP",
+                "size": 87,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:03.935633",
+                "protocol": "UDP",
+                "size": 87,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:04.091069",
+                "protocol": "UDP",
+                "size": 195,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:04.092203",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:04.946740",
+                "protocol": "UDP",
+                "size": 87,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:04.946740",
+                "protocol": "UDP",
+                "size": 87,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:05.258268",
+                "protocol": "UDP",
+                "size": 147,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:05.259407",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:06.166304",
+                "protocol": "UDP",
+                "size": 88,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:06.166304",
+                "protocol": "UDP",
+                "size": 88,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:06.170303",
+                "protocol": "UDP",
+                "size": 86,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:06.170303",
+                "protocol": "UDP",
+                "size": 86,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:06.388207",
+                "protocol": "UDP",
+                "size": 148,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:06.390215",
+                "protocol": "UDP",
+                "size": 104,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:06.394203",
+                "protocol": "UDP",
+                "size": 146,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:06.398202",
+                "protocol": "UDP",
+                "size": 102,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:06.762709",
+                "protocol": "UDP",
+                "size": 91,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:06.764714",
+                "protocol": "UDP",
+                "size": 91,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:07.034150",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:07.034150",
+                "protocol": "UDP",
+                "size": 155,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:07.424020",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:07.424020",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:07.591936",
+                "protocol": "UDP",
+                "size": 125,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:07.593935",
+                "protocol": "UDP",
+                "size": 171,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:08.818197",
+                "protocol": "UDP",
+                "size": 79,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:08.820197",
+                "protocol": "UDP",
+                "size": 79,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:09.042138",
+                "protocol": "UDP",
+                "size": 129,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:09.044110",
+                "protocol": "UDP",
+                "size": 95,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:09.935659",
+                "protocol": "UDP",
+                "size": 95,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:09.937658",
+                "protocol": "UDP",
+                "size": 95,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:10.091627",
+                "protocol": "UDP",
+                "size": 155,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:10.091627",
+                "protocol": "UDP",
+                "size": 159,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:11.377022",
+                "protocol": "UDP",
+                "size": 77,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:11.397018",
+                "protocol": "UDP",
+                "size": 141,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:13.488696",
+                "protocol": "UDP",
+                "size": 74,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:13.490698",
+                "protocol": "UDP",
+                "size": 74,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:13.728061",
+                "protocol": "UDP",
+                "size": 155,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:13.732060",
+                "protocol": "UDP",
+                "size": 201,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:14.731678",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:14.731678",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:14.999575",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:15.009571",
+                "protocol": "UDP",
+                "size": 91,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:16.339856",
+                "protocol": "UDP",
+                "size": 74,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:16.377841",
+                "protocol": "UDP",
+                "size": 81,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:16.403830",
+                "protocol": "UDP",
+                "size": 74,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:16.441833",
+                "protocol": "UDP",
+                "size": 81,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:16.733705",
+                "protocol": "UDP",
+                "size": 353,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:16.741711",
+                "protocol": "UDP",
+                "size": 145,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:16.769709",
+                "protocol": "UDP",
+                "size": 353,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:16.821680",
+                "protocol": "UDP",
+                "size": 145,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:18.091491",
+                "protocol": "UDP",
+                "size": 95,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:18.153903",
+                "protocol": "UDP",
+                "size": 95,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:18.309846",
+                "protocol": "UDP",
+                "size": 202,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:18.415293",
+                "protocol": "UDP",
+                "size": 202,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:19.215846",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:19.279838",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:19.400408",
+                "protocol": "UDP",
+                "size": 184,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:19.467865",
+                "protocol": "UDP",
+                "size": 184,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:20.723431",
+                "protocol": "UDP",
+                "size": 68,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:20.785407",
+                "protocol": "UDP",
+                "size": 68,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:21.787024",
+                "protocol": "UDP",
+                "size": 68,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:21.878975",
+                "protocol": "UDP",
+                "size": 132,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:27.974920",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:28.032861",
+                "protocol": "UDP",
+                "size": 86,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:28.038855",
+                "protocol": "UDP",
+                "size": 75,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:28.369841",
+                "protocol": "UDP",
+                "size": 139,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:28.427430",
+                "protocol": "UDP",
+                "size": 139,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:29.534367",
+                "protocol": "UDP",
+                "size": 79,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:29.598301",
+                "protocol": "UDP",
+                "size": 79,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:29.861032",
+                "protocol": "UDP",
+                "size": 178,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:29.906268",
+                "protocol": "UDP",
+                "size": 178,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:49.111123",
+                "protocol": "UDP",
+                "size": 95,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:49.173108",
+                "protocol": "UDP",
+                "size": 95,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:49.213093",
+                "protocol": "UDP",
+                "size": 202,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:49.279068",
+                "protocol": "UDP",
+                "size": 202,
+                "direction": "sent"
+            }
+        ]
+    },
+    "78:24:af:37:13:28": {
+        "ip": "192.168.1.103",
+        "mac": "78:24:af:37:13:28",
+        "hostname": "Unknown",
+        "vendor": "Intel",
+        "alias": "",
+        "notes": "",
+        "trusted": false,
+        "online": true,
+        "first_seen": "2026-06-30T19:58:03.420254",
+        "last_seen": "2026-07-01T17:52:56.763259",
+        "packet_count": 112647,
+        "bytes_sent": 10235036,
+        "bytes_received": 72392434,
+        "protocols": {
+            "TCP": 108014,
+            "UDP": 4549,
+            "OTHER": 84
+        },
+        "packet_history": [
+            {
+                "time": "2026-07-01T17:52:56.673293",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.673293",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.677295",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.677295",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.677295",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.679291",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.679291",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.679291",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.681290",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.681290",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.683289",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.683289",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.683289",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.683289",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.685289",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.685289",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.687288",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.687288",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.689287",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.689287",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.691287",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.691287",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.693286",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.693286",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.693286",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.693286",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.701283",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.701283",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.703281",
+                "protocol": "TCP",
+                "size": 1414,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.703281",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.705281",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.705281",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.705281",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.707285",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.707285",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.709280",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.709280",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.709280",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.709280",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.711279",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.711279",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.713278",
+                "protocol": "TCP",
+                "size": 1414,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.713278",
+                "protocol": "TCP",
+                "size": 1414,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.713278",
+                "protocol": "TCP",
+                "size": 54,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.717277",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.717277",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.717277",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.717277",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.719276",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.719276",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.721276",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.721276",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.723275",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.723275",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.723275",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.723275",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.727273",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.727273",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.727273",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.727273",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.729272",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.729272",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.731271",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.731271",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.731271",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.733271",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.733271",
+                "protocol": "TCP",
+                "size": 55,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.733271",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.733271",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.737271",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.737271",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.739268",
+                "protocol": "TCP",
+                "size": 1414,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.739268",
+                "protocol": "TCP",
+                "size": 54,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.741267",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.743266",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.743266",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.743266",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.745266",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.745266",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.747265",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.747265",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.747265",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.747265",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.749264",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.749264",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.751263",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.751263",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.753263",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.753263",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.755262",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.755262",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.757260",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.757260",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.759261",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.759261",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.759261",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.759261",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.761261",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            },
+            {
+                "time": "2026-07-01T17:52:56.761261",
+                "protocol": "TCP",
+                "size": 90,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:56.763259",
+                "protocol": "TCP",
+                "size": 1454,
+                "direction": "received"
+            }
+        ]
+    },
+    "fa:23:29:2a:f5:a5": {
+        "ip": "192.168.1.100",
+        "mac": "fa:23:29:2a:f5:a5",
+        "hostname": "Unknown",
+        "vendor": "Unknown (Randomized MAC)",
+        "alias": "",
+        "notes": "",
+        "trusted": false,
+        "online": false,
+        "first_seen": "2026-06-30T20:09:50.834085",
+        "last_seen": "2026-07-01T17:52:40.599461",
+        "packet_count": 114,
+        "bytes_sent": 15631,
+        "bytes_received": 0,
+        "protocols": {
+            "UDP": 114
+        },
+        "packet_history": [
+            {
+                "time": "2026-06-30T20:24:15.628592",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:24:16.131325",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:24:26.105443",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:25:26.104178",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:26:26.113737",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:27:26.114046",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:28:26.135789",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:26.113782",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:26.114106",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:31:26.120574",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:32:26.119055",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:32:52.206730",
+                "protocol": "UDP",
+                "size": 82,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:32:52.207721",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:32:53.206971",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:32:54.215920",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:33:14.236003",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:33:26.178400",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:33:34.241466",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:33:54.263630",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:34:14.276752",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:34:26.119042",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:34:34.300186",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:34:54.315379",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:35:14.339828",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:35:26.121190",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:35:34.386931",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:35:54.411335",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:36:14.397079",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:36:26.149021",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:36:34.428351",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:36:54.462051",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:14.460626",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:26.140277",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:34.461330",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:54.502416",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:38:14.500945",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:38:26.222078",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:38:34.538409",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:38:54.529672",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:39:14.579843",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:39:26.120528",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:39:34.537284",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:39:54.573042",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:40:14.548683",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:40:26.118575",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:40:34.552598",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:40:54.555759",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:41:14.602568",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:41:26.116320",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:41:34.625371",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:41:54.630629",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:42:14.597317",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:42:26.121135",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:42:34.674922",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:42:54.602021",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:43:14.603618",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:43:26.175969",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:43:34.608902",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:43:54.623495",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:44:14.711283",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:44:26.126957",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:44:34.639587",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:44:54.624582",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:45:14.636380",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:45:26.123204",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:45:34.636762",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:45:54.652057",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:46:14.648817",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:46:26.134417",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:46:34.655217",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:46:54.691799",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:47:14.684063",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:47:26.129351",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:47:34.707928",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:47:54.727059",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:48:14.676851",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:48:26.188541",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:48:34.680011",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:48:54.705725",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:49:14.701569",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:49:26.129796",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:49:34.696090",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:49:54.700168",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:50:14.705198",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:50:26.226591",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:50:34.729311",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:50:54.722154",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:51:14.770440",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:51:26.217344",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:51:34.731167",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:51:54.740397",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:52:14.735260",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:52:26.144964",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:52:34.752852",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:52:54.758855",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:14.793761",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:26.146327",
+                "protocol": "UDP",
+                "size": 167,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:34.764515",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:54.834153",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:14.780508",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            }
+        ]
+    },
+    "7a:b4:60:a7:c7:2a": {
+        "ip": "192.168.1.101",
+        "mac": "7a:b4:60:a7:c7:2a",
+        "hostname": "Unknown",
+        "vendor": "Unknown",
+        "alias": "",
+        "notes": "",
+        "trusted": false,
+        "online": true,
+        "first_seen": "2026-06-30T20:09:50.835084",
+        "last_seen": "2026-07-01T17:52:54.573842",
+        "packet_count": 151,
+        "bytes_sent": 27449,
+        "bytes_received": 0,
+        "protocols": {
+            "UDP": 151
+        },
+        "packet_history": [
+            {
+                "time": "2026-06-30T20:23:00.136052",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:23:20.223131",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:23:40.172378",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:24:00.190645",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:24:20.189056",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:24:40.220855",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:25:00.230643",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:25:20.259461",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:25:40.264744",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:26:00.286052",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:26:20.297105",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:26:40.302430",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:27:00.320445",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:27:20.383516",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:27:40.369563",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:28:00.388581",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:28:20.426623",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:28:40.446579",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:00.442683",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:20.467023",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:40.467948",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:55.612921",
+                "protocol": "UDP",
+                "size": 107,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:56.094434",
+                "protocol": "UDP",
+                "size": 160,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:56.347540",
+                "protocol": "UDP",
+                "size": 160,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:56.603259",
+                "protocol": "UDP",
+                "size": 160,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:56.868007",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:57.881210",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:29:59.872963",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:00.473329",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:03.874397",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:11.893828",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:20.488753",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:27.635268",
+                "protocol": "UDP",
+                "size": 107,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:27.919963",
+                "protocol": "UDP",
+                "size": 160,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:28.169715",
+                "protocol": "UDP",
+                "size": 160,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:28.420450",
+                "protocol": "UDP",
+                "size": 160,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:28.697724",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:29.637173",
+                "protocol": "UDP",
+                "size": 107,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:29.682127",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:31.640605",
+                "protocol": "UDP",
+                "size": 107,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:31.687562",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:35.702435",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:40.490379",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:43.692918",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:30:59.698157",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:31:00.488690",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:31:20.510162",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:31:31.699285",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:31:40.517667",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:32:00.537218",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:32:20.558544",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:32:35.704708",
+                "protocol": "UDP",
+                "size": 512,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:32:40.561271",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:33:00.618968",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:33:20.631018",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:33:40.627936",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:34:00.639443",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:34:20.646402",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:34:40.655326",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:35:00.678188",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:35:20.670826",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:35:40.683537",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:36:00.701462",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:36:20.696257",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:36:40.706930",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:00.722812",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:20.738035",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:24.026383",
+                "protocol": "UDP",
+                "size": 107,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:26.055359",
+                "protocol": "UDP",
+                "size": 107,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:28.024537",
+                "protocol": "UDP",
+                "size": 107,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:34.000825",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:36.004302",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:37:38.008044",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:50.966208",
+                "protocol": "UDP",
+                "size": 82,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:50.968180",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:50.968180",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:50.970468",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:50.971482",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:51.967216",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:52.969497",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:57.985774",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:58.989979",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:51:59.986238",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:09.999634",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:11.039952",
+                "protocol": "UDP",
+                "size": 151,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:11.512969",
+                "protocol": "UDP",
+                "size": 82,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:11.514968",
+                "protocol": "UDP",
+                "size": 103,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:11.516986",
+                "protocol": "UDP",
+                "size": 119,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:11.520980",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:12.521004",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:13.522685",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:18.528107",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:19.530690",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:20.536674",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:30.548685",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:31.550122",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:32.554448",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:52.576514",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:53.572134",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-07-01T17:52:54.573842",
+                "protocol": "UDP",
+                "size": 135,
+                "direction": "sent"
+            }
+        ]
+    },
+    "5a:09:03:87:7d:ea": {
+        "ip": "192.168.1.105",
+        "mac": "5a:09:03:87:7d:ea",
+        "hostname": "Unknown",
+        "vendor": "Unknown",
+        "alias": "",
+        "notes": "",
+        "trusted": false,
+        "online": false,
+        "first_seen": "2026-06-30T20:40:51.623801",
+        "last_seen": "2026-06-30T20:54:17.319893",
+        "packet_count": 2580,
+        "bytes_sent": 789636,
+        "bytes_received": 0,
+        "protocols": {
+            "UDP": 2582
+        },
+        "packet_history": [
+            {
+                "time": "2026-06-30T20:53:40.008970",
+                "protocol": "UDP",
+                "size": 189,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:40.292938",
+                "protocol": "UDP",
+                "size": 805,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:40.429815",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:40.527710",
+                "protocol": "UDP",
+                "size": 307,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:40.622618",
+                "protocol": "UDP",
+                "size": 316,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:40.706532",
+                "protocol": "UDP",
+                "size": 363,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:40.717521",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:40.794439",
+                "protocol": "UDP",
+                "size": 361,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:40.895321",
+                "protocol": "UDP",
+                "size": 373,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:40.970267",
+                "protocol": "UDP",
+                "size": 371,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:41.006221",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:41.296264",
+                "protocol": "UDP",
+                "size": 805,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:43.335415",
+                "protocol": "UDP",
+                "size": 441,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:44.099142",
+                "protocol": "UDP",
+                "size": 307,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:44.191049",
+                "protocol": "UDP",
+                "size": 316,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:44.274962",
+                "protocol": "UDP",
+                "size": 363,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:44.364869",
+                "protocol": "UDP",
+                "size": 361,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:44.453780",
+                "protocol": "UDP",
+                "size": 373,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:44.544686",
+                "protocol": "UDP",
+                "size": 371,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:45.335320",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:45.618013",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:45.905725",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:46.197429",
+                "protocol": "UDP",
+                "size": 450,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:46.337274",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:46.622982",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:46.909688",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:47.200426",
+                "protocol": "UDP",
+                "size": 190,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:47.339304",
+                "protocol": "UDP",
+                "size": 408,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:47.676957",
+                "protocol": "UDP",
+                "size": 307,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:47.765861",
+                "protocol": "UDP",
+                "size": 316,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:47.855769",
+                "protocol": "UDP",
+                "size": 363,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:47.941689",
+                "protocol": "UDP",
+                "size": 361,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:48.034063",
+                "protocol": "UDP",
+                "size": 373,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:48.122972",
+                "protocol": "UDP",
+                "size": 371,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:48.238958",
+                "protocol": "UDP",
+                "size": 190,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:50.235342",
+                "protocol": "UDP",
+                "size": 483,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:51.233622",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:51.250601",
+                "protocol": "UDP",
+                "size": 307,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:51.340625",
+                "protocol": "UDP",
+                "size": 316,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:51.429541",
+                "protocol": "UDP",
+                "size": 363,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:51.522441",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:51.522441",
+                "protocol": "UDP",
+                "size": 361,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:51.607352",
+                "protocol": "UDP",
+                "size": 373,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:51.695262",
+                "protocol": "UDP",
+                "size": 371,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:51.811143",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:52.099215",
+                "protocol": "UDP",
+                "size": 190,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:53.141553",
+                "protocol": "UDP",
+                "size": 190,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:54.824171",
+                "protocol": "UDP",
+                "size": 307,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:54.913084",
+                "protocol": "UDP",
+                "size": 316,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:55.003978",
+                "protocol": "UDP",
+                "size": 363,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:55.097895",
+                "protocol": "UDP",
+                "size": 361,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:55.190800",
+                "protocol": "UDP",
+                "size": 373,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:55.272704",
+                "protocol": "UDP",
+                "size": 371,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:55.273703",
+                "protocol": "UDP",
+                "size": 189,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:55.563006",
+                "protocol": "UDP",
+                "size": 189,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:55.868937",
+                "protocol": "UDP",
+                "size": 189,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:56.145653",
+                "protocol": "UDP",
+                "size": 805,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:56.354439",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:56.644143",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:56.929850",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:57.182249",
+                "protocol": "UDP",
+                "size": 805,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:58.411079",
+                "protocol": "UDP",
+                "size": 307,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:58.490998",
+                "protocol": "UDP",
+                "size": 316,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:58.579892",
+                "protocol": "UDP",
+                "size": 363,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:58.670800",
+                "protocol": "UDP",
+                "size": 361,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:58.758710",
+                "protocol": "UDP",
+                "size": 373,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:58.850633",
+                "protocol": "UDP",
+                "size": 371,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:53:59.222134",
+                "protocol": "UDP",
+                "size": 441,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:01.185003",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:08.997249",
+                "protocol": "UDP",
+                "size": 190,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:09.138089",
+                "protocol": "UDP",
+                "size": 307,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:09.224020",
+                "protocol": "UDP",
+                "size": 316,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:09.310890",
+                "protocol": "UDP",
+                "size": 363,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:09.400067",
+                "protocol": "UDP",
+                "size": 361,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:09.490974",
+                "protocol": "UDP",
+                "size": 373,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:09.579870",
+                "protocol": "UDP",
+                "size": 371,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:11.126406",
+                "protocol": "UDP",
+                "size": 189,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:11.414942",
+                "protocol": "UDP",
+                "size": 189,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:11.704645",
+                "protocol": "UDP",
+                "size": 189,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:12.009332",
+                "protocol": "UDP",
+                "size": 805,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:12.182156",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:12.470860",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:12.724599",
+                "protocol": "UDP",
+                "size": 307,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:12.762560",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:12.798523",
+                "protocol": "UDP",
+                "size": 316,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:12.890429",
+                "protocol": "UDP",
+                "size": 363,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:12.981336",
+                "protocol": "UDP",
+                "size": 361,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:13.033283",
+                "protocol": "UDP",
+                "size": 805,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:13.066250",
+                "protocol": "UDP",
+                "size": 373,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:13.155159",
+                "protocol": "UDP",
+                "size": 371,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:15.072195",
+                "protocol": "UDP",
+                "size": 441,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:16.285972",
+                "protocol": "UDP",
+                "size": 307,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:16.370865",
+                "protocol": "UDP",
+                "size": 316,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:16.470763",
+                "protocol": "UDP",
+                "size": 363,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:16.549682",
+                "protocol": "UDP",
+                "size": 361,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:16.638592",
+                "protocol": "UDP",
+                "size": 373,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:16.727501",
+                "protocol": "UDP",
+                "size": 371,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:17.030190",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:17.319893",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            },
+            {
+                "time": "2026-06-30T20:54:17.615591",
+                "protocol": "UDP",
+                "size": 142,
+                "direction": "sent"
+            }
+        ]
+    }
+}
